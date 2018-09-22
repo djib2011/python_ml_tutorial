@@ -10,3 +10,5 @@ The whole tutorial is written in jupyter notebooks, which I feel is the best pla
 - Install jupyter through pip: `pip install jupyter`.
 
 If the notebooks don't render properly through github you can always view them through [here](http://nbviewer.jupyter.org/github/thanostagaris/python_ml_tutorial/tree/master/).
+
+Some attached images might not appear properly unless you download and run the notebooks locally.
